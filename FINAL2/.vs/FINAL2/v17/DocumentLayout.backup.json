@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\helper\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\helper\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\migrations\\20241227004619_myfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\migrations\\20241227004619_myfirstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\validators\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\validators\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\validators\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\validators\\loanvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\validators\\loanvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\model\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\model\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\data\\persondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\data\\persondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|c:\\users\\c\\desktop\\axali fin\\final2\\final2\\final2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69E946FD-7E4A-491F-8DD7-5E2B5CE9860D}|FINAL2\\FINAL2.csproj|solutionrelative:final2\\final2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Validators\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Validators\\LoginValidator.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Validators\\LoginValidator.cs",
+              "RelativeToolTip": "FINAL2\\Validators\\LoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:30:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\appsettings.json",
+              "RelativeDocumentMoniker": "FINAL2\\appsettings.json",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\appsettings.json",
+              "RelativeToolTip": "FINAL2\\appsettings.json",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T00:23:09.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Services\\LoanService.cs",
+              "RelativeToolTip": "FINAL2\\Services\\LoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:29:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Model\\Register.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Model\\Register.cs",
+              "RelativeToolTip": "FINAL2\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:27:15.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoanValidator.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Validators\\LoanValidator.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Validators\\LoanValidator.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Validators\\LoanValidator.cs",
+              "RelativeToolTip": "FINAL2\\Validators\\LoanValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:30:29.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Controllers\\PersonController.cs*",
+              "RelativeToolTip": "FINAL2\\Controllers\\PersonController.cs*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:23:59.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Helper\\AppSettings.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Helper\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Helper\\AppSettings.cs",
+              "RelativeToolTip": "FINAL2\\Helper\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:26:24.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Startup.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Startup.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Startup.cs",
+              "RelativeToolTip": "FINAL2\\Startup.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:21:54.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "FINAL2\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAQwOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:23:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Validators\\RegisterValidator.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Validators\\RegisterValidator.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Validators\\RegisterValidator.cs",
+              "RelativeToolTip": "FINAL2\\Validators\\RegisterValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:31:06.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241227004619_myfirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Migrations\\20241227004619_myfirstMigration.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Migrations\\20241227004619_myfirstMigration.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Migrations\\20241227004619_myfirstMigration.cs",
+              "RelativeToolTip": "FINAL2\\Migrations\\20241227004619_myfirstMigration.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:46:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Program.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Program.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Program.cs",
+              "RelativeToolTip": "FINAL2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:34:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonValidator.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Validators\\PersonValidator.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Validators\\PersonValidator.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Validators\\PersonValidator.cs",
+              "RelativeToolTip": "FINAL2\\Validators\\PersonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:30:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Model\\Person.cs",
+              "RelativeToolTip": "FINAL2\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:27:04.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Services\\UserService.cs",
+              "RelativeToolTip": "FINAL2\\Services\\UserService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:29:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Model\\Login.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Model\\Login.cs",
+              "RelativeToolTip": "FINAL2\\Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:26:57.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Model\\Loan.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Model\\Loan.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Model\\Loan.cs",
+              "RelativeToolTip": "FINAL2\\Model\\Loan.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:26:50.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Data\\PersonDbContext.cs",
+              "RelativeDocumentMoniker": "FINAL2\\Data\\PersonDbContext.cs",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\Data\\PersonDbContext.cs",
+              "RelativeToolTip": "FINAL2\\Data\\PersonDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:25:30.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FINAL2",
+              "DocumentMoniker": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\FINAL2.csproj",
+              "RelativeDocumentMoniker": "FINAL2\\FINAL2.csproj",
+              "ToolTip": "C:\\Users\\C\\Desktop\\axali fin\\FINAL2\\FINAL2\\FINAL2.csproj",
+              "RelativeToolTip": "FINAL2\\FINAL2.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T00:18:40.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

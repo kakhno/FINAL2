@@ -1,0 +1,65 @@
+2024-12-26 16:39:45.8472 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 16:39:45.9045 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 16:39:45.9270 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 16:39:45.9270 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 16:39:45.9438 Info Configuration initialized.
+2024-12-26 16:40:43.9083 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 16:40:43.9411 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 16:40:43.9411 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 16:40:43.9543 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 16:40:43.9543 Info Configuration initialized.
+2024-12-26 16:40:44.6962 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 16:40:44.7093 Info LogFactory has been closed.
+2024-12-26 16:41:07.6940 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 16:41:07.7251 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 16:41:07.7340 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 16:41:07.7340 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 16:41:07.7340 Info Configuration initialized.
+2024-12-26 16:41:25.4247 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 16:41:25.4247 Info LogFactory has been closed.
+2024-12-26 16:42:09.4954 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 16:42:09.5494 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 16:42:09.5644 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 16:42:09.5644 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 16:42:09.5867 Info Configuration initialized.
+2024-12-26 16:42:27.7212 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 16:42:27.7212 Info LogFactory has been closed.
+2024-12-26 16:46:18.0922 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 16:46:18.1449 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 16:46:18.1590 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 16:46:18.1590 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 16:46:18.1803 Info Configuration initialized.
+2024-12-26 16:46:19.1922 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 16:46:19.2038 Info LogFactory has been closed.
+2024-12-26 16:46:40.9079 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 16:46:40.9603 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 16:46:40.9744 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 16:46:40.9744 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 16:46:40.9956 Info Configuration initialized.
+2024-12-26 16:46:42.7638 Info AppDomain Shutting down. LogFactory closing...
+2024-12-26 16:46:42.7758 Info LogFactory has been closed.
+2024-12-26 16:48:19.1986 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 16:48:19.2706 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 16:48:19.2911 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 16:48:19.3033 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 16:48:19.3186 Info Configuration initialized.
+2024-12-26 17:05:33.0390 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 17:05:33.1006 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 17:05:33.1247 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 17:05:33.1669 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 17:05:33.1821 Info Configuration initialized.
+2024-12-26 17:16:10.0170 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 17:16:10.0935 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 17:16:10.1183 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 17:16:10.1324 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 17:16:10.1507 Info Configuration initialized.
+2024-12-26 17:17:17.4869 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 17:17:17.5663 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 17:17:17.5880 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 17:17:17.5959 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 17:17:17.6113 Info Configuration initialized.
+2024-12-26 17:21:35.2332 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Unrecognized element 'LogLevel' from section 'NLog'
+2024-12-26 17:21:35.4168 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-12-26 17:21:35.4963 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-12-26 17:21:35.5108 Info Validating config: TargetNames=file, ConfigItems=12 ConfigSection=NLog
+2024-12-26 17:21:35.5238 Info Configuration initialized.
